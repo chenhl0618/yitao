@@ -9,8 +9,8 @@ out
 gen
 .idea/
 
-common/target/classes/
-common/target/common.jar
+/common/target/
+/common/common.iml
 
 manager/dal/target/classes/
 
@@ -22,3 +22,4 @@ manager/web/target/apache-tomcat-maven-plugin/
 manager/web/target/tomcat/webapps/
 manager/web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.class
 yitao.iml
+
